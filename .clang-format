@@ -1,6 +1,0 @@
-IndentWidth: 2
-IndentCaseLabels: true
-AllowShortEnumsOnASingleLine: false
-ColumnLimit: 120
-BinPackArguments: false
-SortIncludes: false
